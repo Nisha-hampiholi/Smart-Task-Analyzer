@@ -4,11 +4,10 @@ A Django-based task management system featuring a "Strict Mode" priority algorit
 
 ## Application Screenshots
 
-### Dark Mode Input & Bulk Import
-*Cyberpunk-styled interface for rapid task entry.*
+### Input & Bulk Import
 ![Input Interface](taskmaster_input.png)
 
-### Strict Mode Dashboard (High Contrast)
+### Dashboar
 *Showcasing the aggressive scoring logic and visual priority indicators.*
 ![Dashboard View](taskmaster_dashboard.png)
 
@@ -86,4 +85,5 @@ Date Intelligence: The algorithm calculates Business Days (excluding weekends) t
 Unit Tests: Implemented unit tests in tasks/tests.py to verify the strict scoring logic.
 
 Cyberpunk UI: Built a custom Dark Mode interface with neon accents, visual priority indicators, and a JSON Bulk Import feature.
+
 
